@@ -29,6 +29,6 @@ Download the dataset from Kaggle:
 https://www.kaggle.com/competitions/digit-recognizer
 
 🛠 Requirements
-Python 3.x
+Python 3
 
 Libraries: numpy, pandas, matplotlib, scikit-learn
